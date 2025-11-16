@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+Computer Name: Simen_Ntbk_16
+Date of Test: 2025-11-16 17:27:11
+Bubble Sort Time: 3.236052 seconds
+Quick Sort Time: 0.009293 seconds
+=======
+Computer Name: Florians-Laptop
+Date of Test: 2025-11-16 17:29:22
+Bubble Sort Time: 6.402673 seconds
+Quick Sort Time: 0.014812 seconds
+>>>>>>> 818e47a4d08bf7a3644246e2a7d8a1912c8f332e
+
+Computer Name: Simen_Ntbk_16
+Date of Test: 2025-11-16 17:45:13
+Bubble Sort Time: 3.241429 seconds
+Quick Sort Time: 0.008389 seconds
+
