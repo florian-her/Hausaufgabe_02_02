@@ -1,0 +1,5 @@
+Computer Name: Florians-Laptop
+Date of Test: 2025-11-16 17:29:22
+Bubble Sort Time: 6.402673 seconds
+Quick Sort Time: 0.014812 seconds
+
